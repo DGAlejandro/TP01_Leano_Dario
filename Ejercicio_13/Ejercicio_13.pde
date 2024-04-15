@@ -1,7 +1,7 @@
 //Ingresar datos cualesquiera
 
-int baseRect;
-int altRect;
+float baseRect;
+float altRect;
 float perimetroRect;
 float areaRect;
 
